@@ -68,7 +68,8 @@ export class NavigationComponent implements OnInit, AfterContentChecked  {
     if (value === "en") {
       this.router.navigateByUrl("/");
     } else if (value === "en") {
-      window.open("https://www.serto-bel.com", "_blank");
+        // change this with main url
+      window.open("https://serto-bel-hr.web.app/", "_blank");
     }
   }
 }
