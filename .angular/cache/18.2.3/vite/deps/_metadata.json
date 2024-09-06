@@ -1,73 +1,79 @@
 {
-  "hash": "5a98d1d6",
-  "configHash": "b7a9a7e2",
-  "lockfileHash": "4cf95a10",
-  "browserHash": "019506d5",
+  "hash": "2ed2f824",
+  "configHash": "e84a0e9d",
+  "lockfileHash": "0b749346",
+  "browserHash": "d1da886c",
   "optimized": {
     "@angular/common": {
       "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
       "file": "@angular_common.js",
-      "fileHash": "06cb793c",
+      "fileHash": "e07ceb3d",
       "needsInterop": false
     },
     "@angular/common/http": {
       "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
       "file": "@angular_common_http.js",
-      "fileHash": "8810dc05",
+      "fileHash": "b4614b48",
       "needsInterop": false
     },
     "@angular/core": {
       "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "ccb25264",
+      "fileHash": "c7a9891d",
       "needsInterop": false
     },
     "@angular/material/progress-spinner": {
       "src": "../../../../../node_modules/@angular/material/fesm2022/progress-spinner.mjs",
       "file": "@angular_material_progress-spinner.js",
-      "fileHash": "daae6968",
+      "fileHash": "3d9d43e2",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "6ed84e39",
+      "fileHash": "3cc5f263",
       "needsInterop": false
     },
     "@angular/platform-browser/animations/async": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/animations/async.mjs",
       "file": "@angular_platform-browser_animations_async.js",
-      "fileHash": "9e8b5f97",
+      "fileHash": "962a1e23",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "3fdb0814",
+      "fileHash": "ecaf20ee",
       "needsInterop": false
     },
     "@ng-bootstrap/ng-bootstrap": {
       "src": "../../../../../node_modules/@ng-bootstrap/ng-bootstrap/fesm2022/ng-bootstrap.mjs",
       "file": "@ng-bootstrap_ng-bootstrap.js",
-      "fileHash": "b64f5cc0",
+      "fileHash": "40b2afe3",
+      "needsInterop": false
+    },
+    "ngx-cookieconsent": {
+      "src": "../../../../../node_modules/ngx-cookieconsent/fesm2022/ngx-cookieconsent.mjs",
+      "file": "ngx-cookieconsent.js",
+      "fileHash": "3e36bf25",
       "needsInterop": false
     },
     "ngx-infinite-scroll": {
       "src": "../../../../../node_modules/ngx-infinite-scroll/fesm2022/ngx-infinite-scroll.mjs",
       "file": "ngx-infinite-scroll.js",
-      "fileHash": "d8039b49",
+      "fileHash": "20c17a6b",
       "needsInterop": false
     },
     "rxjs": {
       "src": "../../../../../node_modules/rxjs/dist/esm5/index.js",
       "file": "rxjs.js",
-      "fileHash": "dc2f14ee",
+      "fileHash": "2d77e1c6",
       "needsInterop": false
     },
     "tslib": {
       "src": "../../../../../node_modules/tslib/tslib.es6.mjs",
       "file": "tslib.js",
-      "fileHash": "863b93ec",
+      "fileHash": "7c710a42",
       "needsInterop": false
     }
   },
