@@ -67,7 +67,7 @@ export class NavigationComponent implements OnInit, AfterContentChecked  {
   setPageLanguage(value: string) {
     if (value === "en") {
       this.router.navigateByUrl("/");
-    } else if (value === "en") {
+    } else if (value === "hr") {
         // change this with main url
       window.open("https://serto-bel-hr.web.app/", "_blank");
     }
